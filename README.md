@@ -5,6 +5,8 @@ Phishing and malware installing by progressive web apps (PWAs) and detection
 
 A new technique that can be used for phishing and possibly other malicious operations has been detailed in a post by security researcher mr.d0x. The method takes advantage of progressive web applications (PWAs). In this video, we go over what these apps are, why they might be harmful, how hackers could utilize them for their own gain, and how to protect against this threat.
 
+![image](https://github.com/ParastouRazi/progressive-web-apps-PWAs-phishing/assets/85788536/51330b82-303e-4f88-aab0-108c4fe054af)
+
 Progressive web apps (PWAs):
 PWAs are web technologies-based apps. In essence, these are webpages that mimic the appearance and functionality of native apps that are installed on the device.
 

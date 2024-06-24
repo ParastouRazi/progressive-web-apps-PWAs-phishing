@@ -1,4 +1,4 @@
-# progressive-web-apps-PWAs-phishing
+# Progressive-web-apps-PWAs-phishing
 Phishing and malware installing by progressive web apps (PWAs) and detection
 
 ![image](https://github.com/ParastouRazi/progressive-web-apps-PWAs-phishing/assets/85788536/f85b079b-b14b-414a-9891-8f1f0703ef47)
@@ -17,9 +17,11 @@ PWAs are supported by all current browsers, however, the most complete implement
 
 If the relevant website allows it, installing a PWA is quite easy. To confirm the installation, simply click on a discreet button located in the address bar of the browser.
 
-Sysmon Detection:
+https://github.com/ParastouRazi/progressive-web-apps-PWAs-phishing/assets/85788536/0ca9297b-d554-4e35-97c7-c1b4bffdd958
 
-Sysmon Events:
+# Sysmon Detection:
+
+# Sysmon Events:
 
 File created:
 Image: C:\Program Files\Google\Chrome\Application\chrome.exe
@@ -68,7 +70,7 @@ TargetObject: HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-
 
 
 
-https://github.com/ParastouRazi/progressive-web-apps-PWAs-phishing/assets/85788536/0ca9297b-d554-4e35-97c7-c1b4bffdd958
+
 
 
 Video :

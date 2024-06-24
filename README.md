@@ -66,5 +66,10 @@ EventType: SetValue
 Image: C:\Program Files\Google\Chrome\Application\chrome_proxy.exe
 TargetObject: HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-737678691-3956078732-2995625844-500\\Device\HarddiskVolume2\Program Files\Google\Chrome\Application\chrome.exe
 
+
+
+https://github.com/ParastouRazi/progressive-web-apps-PWAs-phishing/assets/85788536/0ca9297b-d554-4e35-97c7-c1b4bffdd958
+
+
 Video :
 https://www.youtube.com/watch?v=u1_EE5GLmqg
